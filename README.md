@@ -4,7 +4,7 @@
 
 A clean, responsive frontend food ordering website built with HTML, CSS, and JavaScript.
 
-🌐 **Live Demo:** [gopi-boyi.github.io/DoubleSpoon](https://gopi-boyi.github.io/DoubleSpoon/)
+🌐 **Live Demo:** [https://doublespoon.vercel.app]
 
 ---
 
@@ -53,7 +53,7 @@ DoubleSpoon/
 ## 🚀 Getting Started
 
 ### View Live
-👉 [https://gopi-boyi.github.io/DoubleSpoon/](https://gopi-boyi.github.io/DoubleSpoon/)
+👉 [https://doublespoon.vercel.app]
 
 ### Run Locally
 

@@ -10,7 +10,7 @@ A clean, responsive frontend food ordering website built with HTML, CSS, and Jav
 
 ## 📸 Screenshot
 
-> ![Home Page of DoubleSpoon Restaurant](Screenshot.jpg)
+> ![Screenshot.jpg](Screenshot.jpg)
 
 ---
 

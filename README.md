@@ -86,7 +86,9 @@ Or simply drag and drop `index.html` into your browser.
 ## 🙌 Author
 
 **Gopi-Boyi**
-- GitHub: [www.linkedin.com/in/gopi-boyi]
+- Linkedin: [www.linkedin.com/in/gopi-boyi]
+
+- Github:[https://github.com/Gopi-Boyi]
 
 ---
 

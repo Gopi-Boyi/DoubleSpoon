@@ -8,6 +8,12 @@ A clean, responsive frontend food ordering website built with HTML, CSS, and Jav
 
 ---
 
+## 📸 Screenshot
+
+> ![Home Page of DoubleSpoon Restaurant](Screenshot.png)
+
+---
+
 ## 📸 About the Project
 
 **DoubleSpoon** is a food-themed frontend website that showcases a modern restaurant/food ordering experience. It highlights healthy, handcrafted meals made from the finest ingredients — designed to make visitors feel hungry and engaged!
